@@ -2,6 +2,7 @@ package tictactoe;
 
 /**
  * Types of pieces in the game.
+ * @author Tanasorn Tritawisup
  */
 public enum Player {
 	X("X", 1),

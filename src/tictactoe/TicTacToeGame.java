@@ -24,6 +24,7 @@ public class TicTacToeGame {
 	/** Create tictactoe game.*/
 	public TicTacToeGame(int size) {
 		this.boardsize = size;
+		
 		board = new Board(boardsize,boardsize);   // view of the gameboard
 		pieces = new Piece[boardsize][boardsize]; // stores info about pieces on board
 		gameOver = new SimpleBooleanProperty(false);

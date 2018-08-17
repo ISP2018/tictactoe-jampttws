@@ -1,4 +1,4 @@
-package src.tictactoe;
+package tictactoe;
 
 import javafx.geometry.Bounds;
 import javafx.scene.layout.GridPane;

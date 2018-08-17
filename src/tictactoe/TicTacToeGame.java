@@ -1,4 +1,4 @@
-package src.tictactoe;
+package tictactoe;
 
 import java.util.function.Predicate;
 

@@ -1,4 +1,4 @@
-package tictactoe;
+package src.tictactoe;
 
 import java.net.URL;
 import java.util.logging.Level;

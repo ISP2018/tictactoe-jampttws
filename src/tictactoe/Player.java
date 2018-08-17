@@ -1,4 +1,4 @@
-package tictactoe;
+package src.tictactoe;
 
 /**
  * Types of pieces in the game.

@@ -1,4 +1,5 @@
 ## Tic-Tac-Toe
+[![Build Status](https://travis-ci.com/jampttws/tictactoe.svg?branch=master)](https://travis-ci.com/jampttws/tictactoe)
 
 ### Description
 
